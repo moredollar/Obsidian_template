@@ -1,11 +1,11 @@
 {
   "accentColor": "",
-  "interfaceFontFamily": "Inter,ZCOOL XiaoWei",
-  "textFontFamily": "Inter,ZCOOL XiaoWei",
-  "monospaceFontFamily": "Inter",
+  "interfaceFontFamily": "PingFang SC",
+  "textFontFamily": "PingFang SC",
+  "monospaceFontFamily": "Source Code Pro",
   "theme": "obsidian",
   "cssTheme": "Minimal",
-  "baseFontSize": 16,
+  "baseFontSize": 18,
   "enabledCssSnippets": [],
   "baseFontSizeAction": false
 }

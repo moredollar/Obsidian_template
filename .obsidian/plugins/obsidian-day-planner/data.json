@@ -24,7 +24,7 @@
   "showUnscheduledNestedTasks": true,
   "showNow": true,
   "showNext": true,
-  "pluginVersion": "0.27.0",
+  "pluginVersion": "0.28.0",
   "showCompletedTasks": true,
   "showSubtasksInTaskBlocks": true,
   "icals": [
@@ -42,5 +42,17 @@
   "sortTasksInPlanAfterEdit": false,
   "firstDayOfWeek": "monday",
   "multiDayRange": "full-week",
-  "showTimeTracker": false
+  "showTimeTracker": false,
+  "showActiveClocks": false,
+  "rawIcals": [
+    {
+      "icalConfig": {
+        "name": "Apple calendar",
+        "email": "",
+        "url": "https://p49-caldav.icloud.com/published/2/MTA1MDI5NTI2MjMxMDUwMma6n2GMiVM6Vkofjc-wYrHBoI_lnPWYX77K_SMjRa2r",
+        "color": "#38abad"
+      },
+      "text": ""
+    }
+  ]
 }

@@ -9,7 +9,7 @@
   },
   "weekly": {
     "format": "",
-    "template": "Template/Weekly Template.md",
+    "template": "Template/Weekly Log Template.md",
     "folder": "2.Weekly Log",
     "enabled": true
   },
@@ -27,7 +27,7 @@
   },
   "yearly": {
     "format": "",
-    "template": "Yearly & Seasonal Template",
+    "template": "Template/Yearly & Seasonal Log Template.md",
     "folder": "5.Yearly Log",
     "enabled": true
   }

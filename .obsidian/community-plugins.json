@@ -7,7 +7,6 @@
   "obsidian-tracker",
   "obsidian-minimal-settings",
   "obsidian-style-settings",
-  "obsidian-kanban",
   "dataview",
   "obsidian-excalidraw-plugin",
   "obsidian-file-info-plugin",
@@ -15,5 +14,8 @@
   "obsidian-mind-map",
   "obsidian-spaced-repetition",
   "obsidian-day-planner",
-  "obsidian-reminder-plugin"
+  "obsidian-reminder-plugin",
+  "manual-sorting",
+  "tray",
+  "obsidian-kanban"
 ]
