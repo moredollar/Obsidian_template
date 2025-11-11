@@ -14,7 +14,16 @@
               "type": "kanban",
               "state": {
                 "file": "KanBan.md",
-                "kanbanViewState": {}
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
               },
               "icon": "lucide-trello",
               "title": "KanBan"
@@ -251,21 +260,21 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "b823b89171765330",
+  "active": "f1dc4700acabb6b9",
   "lastOpenFiles": [
-    "Obsidian 更换字体.md",
+    "KanBanCards/Windows11窗口贴图错误.md",
+    "KanBanCards/Obsidian日历-待办事项.md",
+    "KanBanCards/执行体系建立.md",
     "KanBan.md",
+    "Obsidian 更换字体.md",
     "KanBanCards/护栏搁板、护栏花盆.md",
     "KanBanCards/香薰蜡烛.md",
-    "KanBanCards/执行体系建立.md",
     "1.Daily Log/护栏搁板、护栏花盆.md",
     "锻炼：拉腿、力量、有氧.md",
     "未命名看板.md",
-    "KanBanCards/Obsidian日历-待办事项.md",
     "12312.md",
     "Obsidian内容整理.md",
     "123.md",
-    "KanBanCards/Windows11窗口贴图错误.md",
     "BiliBili收藏夹整理.md",
     "家用防卫设备.md",
     "Template/Daily Log Template.md",

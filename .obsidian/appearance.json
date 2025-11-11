@@ -1,8 +1,8 @@
 {
   "accentColor": "",
-  "interfaceFontFamily": "PingFang SC",
-  "textFontFamily": "PingFang SC",
-  "monospaceFontFamily": "Source Code Pro",
+  "interfaceFontFamily": "Inter,Arial Black",
+  "textFontFamily": "Inter,Arial",
+  "monospaceFontFamily": "Source Code Pro,Arial",
   "theme": "obsidian",
   "cssTheme": "Minimal",
   "baseFontSize": 18,
