@@ -1,0 +1,51 @@
+{
+  "customOrder": {
+    "/": [
+      "Obsidian 更换字体.md",
+      "KanBan.md",
+      "KanBanCards",
+      "1.Daily Log",
+      "2.Weekly Log",
+      "3.Monthly Log",
+      "4.Future Log",
+      "5.Yearly Log",
+      "Excalidraw",
+      "Projects",
+      "Template",
+      "pomodoro.md"
+    ],
+    "1.Daily Log": [
+      "1.Daily Log/2025-11-11.md"
+    ],
+    "2.Weekly Log": [
+      "2.Weekly Log/2025-W46.md"
+    ],
+    "3.Monthly Log": [
+      "3.Monthly Log/2025-11.md"
+    ],
+    "4.Future Log": [
+      "4.Future Log/future_log.md",
+      "4.Future Log/FutureLog.md"
+    ],
+    "5.Yearly Log": [
+      "5.Yearly Log/2025.md"
+    ],
+    "Excalidraw": [],
+    "KanBanCards": [
+      "KanBanCards/执行体系建立.md",
+      "KanBanCards/Obsidian日历-待办事项.md",
+      "KanBanCards/Windows11窗口贴图错误.md"
+    ],
+    "Projects": [],
+    "Template": [
+      "Template/Daily Log Template.md",
+      "Template/Weekly Log Template.md",
+      "Template/Monthly Log Template.md",
+      "Template/Yearly & Seasonal Log Template.md",
+      "Template/books_note_template.md"
+    ]
+  },
+  "sortOrder": "customOrder",
+  "debugMode": false,
+  "newItemPlacement": "top"
+}
